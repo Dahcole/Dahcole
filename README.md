@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dahcole
 - 👀 I’m interested in software development
-- 🌱 I’m currently undergoing ALX full stack software development and learning Python 
+- 🌱 I’m currently undergoing ALX full stack software development program and learning Python 
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me +2349092588828 on WhatsApp
 
