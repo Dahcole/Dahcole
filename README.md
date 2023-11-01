@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dahcole
-- 👀 I’m interested in software development
-- 🌱 I’m currently undergoing ALX full stack software development program and learning Python 
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m a mobile developer
 - 📫 How to reach me +2349092588828 on WhatsApp
+- 
 
 <!---
 Dahcole/Dahcole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
