@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dahcole
 - 👀 I’m a mobile developer
-- 📫 How to reach me +2349092588828 on WhatsApp
 
 
 <!---
